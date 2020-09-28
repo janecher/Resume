@@ -1,7 +1,7 @@
 # Evgeniya Chernaya
-![linkedin.com/in/evgeniyach](linkedin.com/in/evgeniyach)\
-![https://github.com/janecher](https://github.com/janecher)\
-![Portfolio](https://janecher.github.io/Portfolio/index.html)\
+linkedin.com/in/evgeniyach\
+https://github.com/janecher\
+https://janecher.github.io/Portfolio/index.html\
 evgenya.chernaya@gmail.com\
 (425) 628 9847\
 Greater Seattle Area, WA
@@ -33,7 +33,7 @@ Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated.
 
 ## Projects
 Built over 100 applications with C#/.NET, React, jQuery, HTML, and CSS
-GitHub account: [https://github.com/janecher](https://github.com/janecher)
+GitHub account: https://github.com/janecher
 
 ## Skills:
 * C#/.NET	(C# .Net WEb Api, C# .Net Core MVC)
