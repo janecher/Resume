@@ -7,7 +7,7 @@ evgenya.chernaya@gmail.com \
 Greater Seattle Area, WA
 
 ## About
-Former MS in Math with GIS working experience. Coursework in Computer Science.
+MS in Math with former GIS working experience. Coursework in Computer Science.
 Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated. 
 
 ## Education 
