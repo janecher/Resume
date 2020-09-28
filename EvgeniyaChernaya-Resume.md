@@ -8,13 +8,13 @@ Greater Seattle Area, WA
 
 ## About
 MS in Math with former GIS working experience. Coursework in Computer Science.
-Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated. 
+Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated (Nov 2020). 
 
 ## Education 
 ### 2020 Epicodus
 **_Full Time Student, Full Stack C#/JavaScript SWE_**
 * Approximately 800 hours of classroom learning and hands on coding experience in web and open source development
-* Weekly code reviews on independent projects
+* Weekly independent projects were undergoing via code reviews
 * Developed interpersonal and communication skills through daily pairing and team week projects 
 * 150 hours of on-the-job internship
 * HTML, CSS, Bootstrap
