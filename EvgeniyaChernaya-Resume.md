@@ -1,9 +1,9 @@
 # Evgeniya Chernaya
-linkedin.com/in/evgeniyach\
-https://github.com/janecher\
-https://janecher.github.io/Portfolio/index.html\
-evgenya.chernaya@gmail.com\
-(425) 628 9847\
+linkedin.com/in/evgeniyach \
+https://github.com/janecher \
+https://janecher.github.io/Portfolio/index.html \
+evgenya.chernaya@gmail.com \
+(425) 628 9847 \
 Greater Seattle Area, WA
 
 ## About
