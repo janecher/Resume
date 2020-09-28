@@ -35,7 +35,7 @@ Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated.
 **_Master of Science, Mathematics_**
 
 ## Projects
-Built over 100 applications with C#/.NET, React, jQuery, HTML, and CSS \
+Built over 100 applications with HTML, CSS, JavaScript, C#/.NET, React
 GitHub account: https://github.com/janecher
 
 ## Skills:
