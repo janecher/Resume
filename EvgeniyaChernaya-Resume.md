@@ -1,9 +1,9 @@
 # Evgeniya Chernaya
-[linkedin.com/in/evgeniyach](linkedin.com/in/evgeniyach). 
-[https://github.com/janecher](https://github.com/janecher). 
-[https://janecher.github.io/Portfolio/index.html](https://janecher.github.io/Portfolio/index.html)  
-evgenya.chernaya@gmail.com. 
-(425) 628 9847. 
+[linkedin.com/in/evgeniyach](linkedin.com/in/evgeniyach)\
+[https://github.com/janecher](https://github.com/janecher)\
+[https://janecher.github.io/Portfolio/index.html](https://janecher.github.io/Portfolio/index.html)\
+evgenya.chernaya@gmail.com\
+(425) 628 9847\
 Greater Seattle Area, WA
 
 ## About
@@ -12,7 +12,7 @@ Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated.
 
 ## Education 
 #### 2020	 	Epicodus
-***_Full Time Student, Full Stack C#/JavaScript SWE_***
+**_Full Time Student, Full Stack C#/JavaScript SWE_**
 * Approximately 800 hours of classroom learning and hands on coding experience in web and open source development
 * Weekly code reviews on independent projects
 * Developed interpersonal and communication skills through daily pairing and team week projects 
@@ -23,7 +23,7 @@ Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated.
 * React JS, Redux, NoSql
  
 #### 2017 - 2019	Bellevue College
-***_C# Programming, Certification Program_***
+**_C# Programming, Certification Program_**
 * C# Programming 
 * Algorithms in .NET
 * C# Programming Certificate Capstone (Windows Forms independent project)
