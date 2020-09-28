@@ -11,7 +11,7 @@ Former MS in Math with GIS working experience. Coursework in Computer Science.
 Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated. 
 
 ## Education 
-#### 2020	 	Epicodus
+#### 2020 Epicodus
 **_Full Time Student, Full Stack C#/JavaScript SWE_**
 * Approximately 800 hours of classroom learning and hands on coding experience in web and open source development
 * Weekly code reviews on independent projects
@@ -21,6 +21,9 @@ Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated.
 * Intermediate JavaScript (jQuery, TDD with Jest, API)
 * C# .Net Core, C# .Net Web API, MS Test, MySql
 * React JS, Redux, NoSql
+
+#### 2020 Kal Academy
+**_Algorithms and Data Structures course_**
  
 #### 2017 - 2019	Bellevue College
 **_C# Programming, Certification Program_**
