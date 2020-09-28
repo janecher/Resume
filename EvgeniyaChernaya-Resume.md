@@ -11,7 +11,7 @@ Former MS in Math with GIS working experience. Coursework in Computer Science.
 Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated. 
 
 ## Education 
-#### 2020 Epicodus
+### 2020 Epicodus
 **_Full Time Student, Full Stack C#/JavaScript SWE_**
 * Approximately 800 hours of classroom learning and hands on coding experience in web and open source development
 * Weekly code reviews on independent projects
@@ -22,20 +22,20 @@ Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated.
 * C# .Net Core, C# .Net Web API, MS Test, MySql
 * React JS, Redux, NoSql
 
-#### 2020 Kal Academy
+### 2020 Kal Academy
 **_Algorithms and Data Structures course_**
  
-#### 2017 - 2019	Bellevue College
+### 2017 - 2019	Bellevue College
 **_C# Programming, Certification Program_**
 * C# Programming 
 * Algorithms in .NET
 * C# Programming Certificate Capstone (Windows Forms independent project)
 
-#### 2004 - 2009	Novosibirsk State University (NSU)
+### 2004 - 2009	Novosibirsk State University (NSU)
 **_Master of Science, Mathematics_**
 
 ## Projects
-Built over 100 applications with C#/.NET, React, jQuery, HTML, and CSS
+Built over 100 applications with C#/.NET, React, jQuery, HTML, and CSS \
 GitHub account: https://github.com/janecher
 
 ## Skills:
