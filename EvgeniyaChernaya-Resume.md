@@ -33,6 +33,19 @@ Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated (October 2020).
 **_2004 - 2009	Novosibirsk State University (NSU)_**
 * Master of Science, Mathematics
 
+## Experience
+
+**_2020-Present	Software Engineer Intern, VR Ulysses, Seattle_**
+* End-to-end ownership of a Data Ingestor app. C#, .NET, Windows Forms. Parsing data from various formats (e.g., CSV, JSON, Excel).
+
+**_2009-2012	Senior Geo Data Specialist, Navitel, Novosibirsk, Russia_**
+* Worked in a team creating GPS maps in Navitel GIS software
+* Processed and analysed data from satellite images, street view vehicles videos and field research data for creating different layers of GPS maps (roads, buildings, land and water bodies, etc.)
+* Worked with Version Control and Bug Management systems improving the quality and maintain created GPS maps
+
+**_2008-2009	Geo Data Specialist, Navitel, Novosibirsk, Russia_**
+* One of the top performers (quality and quantity of created digital maps)
+
 ## Projects
 
 Built over 100 applications with HTML/CSS/JavaScript, C#/.NET, React \
@@ -48,19 +61,6 @@ GitHub account: https://github.com/janecher
 * Jest, MS test
 * Git, GitHub
 * GIS Tools
-
-## Experience
-
-**_2020-Present	Software Engineer Intern, VR Ulysses, Seattle_**
-* End-to-end ownership of a Data Ingestor app. C#, .NET, Windows Forms. Parsing data from various formats (e.g., CSV, JSON, Excel).
-
-**_2009-2012	Senior Geo Data Specialist, Navitel, Novosibirsk, Russia_**
-* Worked in a team creating GPS maps in Navitel GIS software
-* Processed and analysed data from satellite images, street view vehicles videos and field research data for creating different layers of GPS maps (roads, buildings, land and water bodies, etc.)
-* Worked with Version Control and Bug Management systems improving the quality and maintain created GPS maps
-
-**_2008-2009	Geo Data Specialist, Navitel, Novosibirsk, Russia_**
-* One of the top performers (quality and quantity of created digital maps)
 
 ## Languages
 * English
