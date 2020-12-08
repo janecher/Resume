@@ -35,7 +35,10 @@ Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated (October 2020).
 
 ## Experience
 
-**_2020-Present	Software Engineer Intern, VR Ulysses, Seattle_**
+**_December,2020-Present	Software Engineer, VR Ulysses, Seattle_**
+* End-to-end ownership of a Data Ingestor app. C#, .NET, Windows Forms.
+
+**_Octover,2020-December,2020	Software Engineer Intern, VR Ulysses, Seattle_**
 * End-to-end ownership of a Data Ingestor app. C#, .NET, Windows Forms. Parsing data from various formats (e.g., CSV, JSON, Excel).
 
 **_2009-2012	Senior Geo Data Specialist, Navitel, Novosibirsk, Russia_**
