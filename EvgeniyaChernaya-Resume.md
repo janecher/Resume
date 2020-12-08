@@ -7,12 +7,13 @@ evgenya.chernaya@gmail.com \
 Greater Seattle Area, WA
 
 ## About
+
 MS in Math with former GIS working experience. Coursework in Computer Science.
 Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated (October 2020). 
 
 ## Education 
-### 2020 Epicodus
-**_Full Time Student, Full Stack C#/JavaScript SWE_**
+
+**_2020 Epicodus, Full Time Student, Full Stack C#/JavaScript SWE_**
 * Approximately 800 hours of classroom learning and hands on coding experience in web and open source development
 * Weekly independent projects were undergoing via code reviews
 * Developed interpersonal and communication skills through daily pairing and team week projects 
@@ -21,23 +22,24 @@ Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated (October 2020).
 * C# .Net Core, Entity Framework, C# .Net Web API, MS Test, MySql
 * React JS, Redux, NoSql
 
-### 2020 Kal Academy
-**_Algorithms and Data Structures course_**
+**_2020 Kal Academy_**
+* Algorithms and Data Structures course
  
-### 2017 - 2019	Bellevue College
-**_C# Programming, Certification Program_**
+**_2017 - 2019	Bellevue College, C# Programming Certification Program_**
 * C# Programming 
 * Algorithms in .NET
 * C# Programming Certificate Capstone (Windows Forms independent project)
 
-### 2004 - 2009	Novosibirsk State University (NSU)
-**_Master of Science, Mathematics_**
+**_2004 - 2009	Novosibirsk State University (NSU)_**
+* Master of Science, Mathematics
 
 ## Projects
+
 Built over 100 applications with HTML/CSS/JavaScript, C#/.NET, React \
 GitHub account: https://github.com/janecher
 
 ## Skills:
+
 * C#/.NET	(C# .Net WEb Api, C# .Net Core MVC)
 * JavaScript, jQuery	
 * React JS
