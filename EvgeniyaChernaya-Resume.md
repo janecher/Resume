@@ -8,7 +8,7 @@ Greater Seattle Area, WA
 
 ## About
 MS in Math with former GIS working experience. Coursework in Computer Science.
-Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated (Nov 2020). 
+Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated (October 2020). 
 
 ## Education 
 ### 2020 Epicodus
@@ -16,10 +16,9 @@ Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated (Nov 2020).
 * Approximately 800 hours of classroom learning and hands on coding experience in web and open source development
 * Weekly independent projects were undergoing via code reviews
 * Developed interpersonal and communication skills through daily pairing and team week projects 
-* 150 hours of on-the-job internship
 * HTML, CSS, Bootstrap
-* Intermediate JavaScript (jQuery, TDD with Jest, API)
-* C# .Net Core, C# .Net Web API, MS Test, MySql
+* JavaScript (jQuery, TDD with Jest, API)
+* C# .Net Core, Entity Framework, C# .Net Web API, MS Test, MySql
 * React JS, Redux, NoSql
 
 ### 2020 Kal Academy
@@ -35,7 +34,7 @@ Full-time Full-Stack C#/JavaScript/React SWE bootcamp graduated (Nov 2020).
 **_Master of Science, Mathematics_**
 
 ## Projects
-Built over 100 applications with HTML, CSS, JavaScript, C#/.NET, React \
+Built over 100 applications with HTML/CSS/JavaScript, C#/.NET, React \
 GitHub account: https://github.com/janecher
 
 ## Skills:
@@ -49,6 +48,10 @@ GitHub account: https://github.com/janecher
 * GIS Tools
 
 ## Experience
+
+**_2020-Present	Software Engineer Intern, VR Ulysses, Seattle_**
+* End-to-end ownership of a Data Ingestor app. C#, .NET, Windows Forms. Parsing data from various formats (e.g., CSV, JSON, Excel).
+
 **_2009-2012	Senior Geo Data Specialist, Navitel, Novosibirsk, Russia_**
 * Worked in a team creating GPS maps in Navitel GIS software
 * Processed and analysed data from satellite images, street view vehicles videos and field research data for creating different layers of GPS maps (roads, buildings, land and water bodies, etc.)
